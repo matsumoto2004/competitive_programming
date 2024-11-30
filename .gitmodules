@@ -1,0 +1,3 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/matsumoto2004/library.git
