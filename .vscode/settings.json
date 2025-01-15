@@ -37,6 +37,8 @@
         "queue": "cpp",
         "stack": "cpp",
         "*.tcc": "cpp",
-        "0convolution_mod": "c"
+        "0convolution_mod": "c",
+        "algorithm": "cpp",
+        "cmath": "cpp"
     }
 }
